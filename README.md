@@ -39,7 +39,4 @@ This project is a simple Flask web application for user registration, login, and
 - `web/app.py` - Main Flask application
 - `web/init_db.py` - Database initialization script
 - `web/templates/` - HTML templates
-- `game/` - Game logic (not included in this demo)
-
-## License
-MIT
+- `game/` - Game logic
