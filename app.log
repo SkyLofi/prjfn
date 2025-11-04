@@ -1,0 +1,175 @@
+2025-10-07 13:15:33,018 WARNING  * Debugger is active!
+2025-10-07 13:15:33,032 INFO  * Debugger PIN: 949-102-955
+2025-10-07 13:15:43,975 INFO  * Detected change in 'h:\\prjfn\\web\\app.py', reloading
+2025-10-07 13:15:44,950 WARNING  * Debugger is active!
+2025-10-07 13:15:44,974 INFO  * Debugger PIN: 949-102-955
+2025-10-07 13:15:51,667 INFO  * Detected change in 'h:\\prjfn\\web\\app.py', reloading
+2025-10-07 13:15:52,538 WARNING  * Debugger is active!
+2025-10-07 13:15:52,567 INFO  * Debugger PIN: 949-102-955
+2025-10-07 13:15:58,141 INFO  * Detected change in 'h:\\prjfn\\web\\app.py', reloading
+2025-10-07 13:15:58,988 WARNING  * Debugger is active!
+2025-10-07 13:15:59,008 INFO  * Debugger PIN: 949-102-955
+2025-11-04 12:10:38,575 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-04 12:10:38,589 INFO [33mPress CTRL+C to quit[0m
+2025-11-04 12:10:38,642 INFO  * Restarting with stat
+2025-11-04 12:10:39,403 WARNING  * Debugger is active!
+2025-11-04 12:10:39,436 INFO  * Debugger PIN: 949-102-955
+2025-11-04 12:10:46,202 INFO 127.0.0.1 - - [04/Nov/2025 12:10:46] "GET / HTTP/1.1" 200 -
+2025-11-04 12:10:46,352 INFO 127.0.0.1 - - [04/Nov/2025 12:10:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-04 12:10:55,373 INFO 127.0.0.1 - - [04/Nov/2025 12:10:55] "GET /login HTTP/1.1" 200 -
+2025-11-04 12:12:03,457 INFO 127.0.0.1 - - [04/Nov/2025 12:12:03] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:21,377 INFO 127.0.0.1 - - [04/Nov/2025 12:18:21] "GET /register HTTP/1.1" 200 -
+2025-11-04 12:18:27,998 INFO New user registered: dadada (id=3)
+2025-11-04 12:18:28,016 INFO 127.0.0.1 - - [04/Nov/2025 12:18:28] "[32mPOST /register HTTP/1.1[0m" 302 -
+2025-11-04 12:18:28,081 INFO 127.0.0.1 - - [04/Nov/2025 12:18:28] "GET /login HTTP/1.1" 200 -
+2025-11-04 12:18:38,351 INFO User dadada logged in (id=3)
+2025-11-04 12:18:38,351 INFO 127.0.0.1 - - [04/Nov/2025 12:18:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-11-04 12:18:38,480 INFO 127.0.0.1 - - [04/Nov/2025 12:18:38] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:42,063 INFO User 3 incremented their score
+2025-11-04 12:18:42,072 INFO 127.0.0.1 - - [04/Nov/2025 12:18:42] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:42,160 INFO 127.0.0.1 - - [04/Nov/2025 12:18:42] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:42,434 INFO User 3 incremented their score
+2025-11-04 12:18:42,450 INFO 127.0.0.1 - - [04/Nov/2025 12:18:42] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:42,538 INFO 127.0.0.1 - - [04/Nov/2025 12:18:42] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:42,949 INFO User 3 incremented their score
+2025-11-04 12:18:42,969 INFO 127.0.0.1 - - [04/Nov/2025 12:18:42] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:43,058 INFO 127.0.0.1 - - [04/Nov/2025 12:18:43] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:43,532 INFO User 3 incremented their score
+2025-11-04 12:18:43,532 INFO 127.0.0.1 - - [04/Nov/2025 12:18:43] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:43,623 INFO 127.0.0.1 - - [04/Nov/2025 12:18:43] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:44,002 INFO User 3 incremented their score
+2025-11-04 12:18:44,012 INFO 127.0.0.1 - - [04/Nov/2025 12:18:44] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:44,104 INFO 127.0.0.1 - - [04/Nov/2025 12:18:44] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:44,467 INFO User 3 incremented their score
+2025-11-04 12:18:44,485 INFO 127.0.0.1 - - [04/Nov/2025 12:18:44] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:44,593 INFO 127.0.0.1 - - [04/Nov/2025 12:18:44] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:44,934 INFO User 3 incremented their score
+2025-11-04 12:18:44,960 INFO 127.0.0.1 - - [04/Nov/2025 12:18:44] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:45,066 INFO 127.0.0.1 - - [04/Nov/2025 12:18:45] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:45,372 INFO User 3 incremented their score
+2025-11-04 12:18:45,391 INFO 127.0.0.1 - - [04/Nov/2025 12:18:45] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:45,489 INFO 127.0.0.1 - - [04/Nov/2025 12:18:45] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:45,844 INFO User 3 incremented their score
+2025-11-04 12:18:45,860 INFO 127.0.0.1 - - [04/Nov/2025 12:18:45] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:45,945 INFO 127.0.0.1 - - [04/Nov/2025 12:18:45] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:46,455 INFO User 3 incremented their score
+2025-11-04 12:18:46,455 INFO 127.0.0.1 - - [04/Nov/2025 12:18:46] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:46,542 INFO 127.0.0.1 - - [04/Nov/2025 12:18:46] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:46,777 INFO User 3 incremented their score
+2025-11-04 12:18:46,793 INFO 127.0.0.1 - - [04/Nov/2025 12:18:46] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:46,908 INFO 127.0.0.1 - - [04/Nov/2025 12:18:46] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:47,315 INFO User 3 incremented their score
+2025-11-04 12:18:47,329 INFO 127.0.0.1 - - [04/Nov/2025 12:18:47] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:47,438 INFO 127.0.0.1 - - [04/Nov/2025 12:18:47] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:47,831 INFO User 3 incremented their score
+2025-11-04 12:18:47,841 INFO 127.0.0.1 - - [04/Nov/2025 12:18:47] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:47,956 INFO 127.0.0.1 - - [04/Nov/2025 12:18:47] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:48,308 INFO User 3 incremented their score
+2025-11-04 12:18:48,311 INFO 127.0.0.1 - - [04/Nov/2025 12:18:48] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:48,428 INFO 127.0.0.1 - - [04/Nov/2025 12:18:48] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:48,747 INFO User 3 incremented their score
+2025-11-04 12:18:48,765 INFO 127.0.0.1 - - [04/Nov/2025 12:18:48] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:48,863 INFO 127.0.0.1 - - [04/Nov/2025 12:18:48] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:49,201 INFO User 3 incremented their score
+2025-11-04 12:18:49,201 INFO 127.0.0.1 - - [04/Nov/2025 12:18:49] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:49,270 INFO 127.0.0.1 - - [04/Nov/2025 12:18:49] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:49,686 INFO User 3 incremented their score
+2025-11-04 12:18:49,686 INFO 127.0.0.1 - - [04/Nov/2025 12:18:49] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:49,819 INFO 127.0.0.1 - - [04/Nov/2025 12:18:49] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:50,205 INFO User 3 incremented their score
+2025-11-04 12:18:50,205 INFO 127.0.0.1 - - [04/Nov/2025 12:18:50] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:50,311 INFO 127.0.0.1 - - [04/Nov/2025 12:18:50] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:50,575 INFO User 3 incremented their score
+2025-11-04 12:18:50,575 INFO 127.0.0.1 - - [04/Nov/2025 12:18:50] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:50,703 INFO 127.0.0.1 - - [04/Nov/2025 12:18:50] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:51,298 INFO User 3 incremented their score
+2025-11-04 12:18:51,303 INFO 127.0.0.1 - - [04/Nov/2025 12:18:51] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:51,453 INFO 127.0.0.1 - - [04/Nov/2025 12:18:51] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:51,732 INFO User 3 incremented their score
+2025-11-04 12:18:51,748 INFO 127.0.0.1 - - [04/Nov/2025 12:18:51] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:51,849 INFO 127.0.0.1 - - [04/Nov/2025 12:18:51] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:52,538 INFO User 3 incremented their score
+2025-11-04 12:18:52,556 INFO 127.0.0.1 - - [04/Nov/2025 12:18:52] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:52,677 INFO 127.0.0.1 - - [04/Nov/2025 12:18:52] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:52,987 INFO User 3 incremented their score
+2025-11-04 12:18:53,012 INFO 127.0.0.1 - - [04/Nov/2025 12:18:53] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:53,121 INFO 127.0.0.1 - - [04/Nov/2025 12:18:53] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:53,451 INFO User 3 incremented their score
+2025-11-04 12:18:53,468 INFO 127.0.0.1 - - [04/Nov/2025 12:18:53] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:53,579 INFO 127.0.0.1 - - [04/Nov/2025 12:18:53] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:54,032 INFO User 3 incremented their score
+2025-11-04 12:18:54,049 INFO 127.0.0.1 - - [04/Nov/2025 12:18:54] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:54,138 INFO 127.0.0.1 - - [04/Nov/2025 12:18:54] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:54,686 INFO User 3 incremented their score
+2025-11-04 12:18:54,689 INFO 127.0.0.1 - - [04/Nov/2025 12:18:54] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:54,799 INFO 127.0.0.1 - - [04/Nov/2025 12:18:54] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:55,059 INFO User 3 incremented their score
+2025-11-04 12:18:55,075 INFO 127.0.0.1 - - [04/Nov/2025 12:18:55] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:55,178 INFO 127.0.0.1 - - [04/Nov/2025 12:18:55] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:55,605 INFO User 3 incremented their score
+2025-11-04 12:18:55,605 INFO 127.0.0.1 - - [04/Nov/2025 12:18:55] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:55,707 INFO 127.0.0.1 - - [04/Nov/2025 12:18:55] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:56,007 INFO User 3 incremented their score
+2025-11-04 12:18:56,013 INFO 127.0.0.1 - - [04/Nov/2025 12:18:56] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:56,107 INFO 127.0.0.1 - - [04/Nov/2025 12:18:56] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:56,435 INFO User 3 incremented their score
+2025-11-04 12:18:56,453 INFO 127.0.0.1 - - [04/Nov/2025 12:18:56] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:56,575 INFO 127.0.0.1 - - [04/Nov/2025 12:18:56] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:56,824 INFO User 3 incremented their score
+2025-11-04 12:18:56,824 INFO 127.0.0.1 - - [04/Nov/2025 12:18:56] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:56,985 INFO 127.0.0.1 - - [04/Nov/2025 12:18:56] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:57,371 INFO User 3 incremented their score
+2025-11-04 12:18:57,371 INFO 127.0.0.1 - - [04/Nov/2025 12:18:57] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:57,493 INFO 127.0.0.1 - - [04/Nov/2025 12:18:57] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:58,117 INFO User 3 incremented their score
+2025-11-04 12:18:58,122 INFO 127.0.0.1 - - [04/Nov/2025 12:18:58] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:58,238 INFO 127.0.0.1 - - [04/Nov/2025 12:18:58] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:58,447 INFO User 3 incremented their score
+2025-11-04 12:18:58,459 INFO 127.0.0.1 - - [04/Nov/2025 12:18:58] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:58,548 INFO 127.0.0.1 - - [04/Nov/2025 12:18:58] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:59,147 INFO User 3 incremented their score
+2025-11-04 12:18:59,155 INFO 127.0.0.1 - - [04/Nov/2025 12:18:59] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:59,227 INFO 127.0.0.1 - - [04/Nov/2025 12:18:59] "GET / HTTP/1.1" 200 -
+2025-11-04 12:18:59,545 INFO User 3 incremented their score
+2025-11-04 12:18:59,545 INFO 127.0.0.1 - - [04/Nov/2025 12:18:59] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:18:59,661 INFO 127.0.0.1 - - [04/Nov/2025 12:18:59] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:00,091 INFO User 3 incremented their score
+2025-11-04 12:19:00,091 INFO 127.0.0.1 - - [04/Nov/2025 12:19:00] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:00,152 INFO 127.0.0.1 - - [04/Nov/2025 12:19:00] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:00,403 INFO User 3 incremented their score
+2025-11-04 12:19:00,403 INFO 127.0.0.1 - - [04/Nov/2025 12:19:00] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:00,502 INFO 127.0.0.1 - - [04/Nov/2025 12:19:00] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:00,907 INFO User 3 incremented their score
+2025-11-04 12:19:00,907 INFO 127.0.0.1 - - [04/Nov/2025 12:19:00] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:01,019 INFO 127.0.0.1 - - [04/Nov/2025 12:19:01] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:01,294 INFO User 3 incremented their score
+2025-11-04 12:19:01,294 INFO 127.0.0.1 - - [04/Nov/2025 12:19:01] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:01,396 INFO 127.0.0.1 - - [04/Nov/2025 12:19:01] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:01,669 INFO User 3 incremented their score
+2025-11-04 12:19:01,682 INFO 127.0.0.1 - - [04/Nov/2025 12:19:01] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:01,762 INFO 127.0.0.1 - - [04/Nov/2025 12:19:01] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:02,075 INFO User 3 incremented their score
+2025-11-04 12:19:02,090 INFO 127.0.0.1 - - [04/Nov/2025 12:19:02] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:02,185 INFO 127.0.0.1 - - [04/Nov/2025 12:19:02] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:02,483 INFO User 3 incremented their score
+2025-11-04 12:19:02,483 INFO 127.0.0.1 - - [04/Nov/2025 12:19:02] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:02,579 INFO 127.0.0.1 - - [04/Nov/2025 12:19:02] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:02,935 INFO User 3 incremented their score
+2025-11-04 12:19:02,948 INFO 127.0.0.1 - - [04/Nov/2025 12:19:02] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:03,053 INFO 127.0.0.1 - - [04/Nov/2025 12:19:03] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:03,392 INFO User 3 incremented their score
+2025-11-04 12:19:03,404 INFO 127.0.0.1 - - [04/Nov/2025 12:19:03] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:03,540 INFO 127.0.0.1 - - [04/Nov/2025 12:19:03] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:03,918 INFO User 3 incremented their score
+2025-11-04 12:19:03,918 INFO 127.0.0.1 - - [04/Nov/2025 12:19:03] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:04,007 INFO 127.0.0.1 - - [04/Nov/2025 12:19:04] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:05,061 INFO User 3 incremented their score
+2025-11-04 12:19:05,066 INFO 127.0.0.1 - - [04/Nov/2025 12:19:05] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:05,143 INFO 127.0.0.1 - - [04/Nov/2025 12:19:05] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:05,528 INFO User 3 incremented their score
+2025-11-04 12:19:05,532 INFO 127.0.0.1 - - [04/Nov/2025 12:19:05] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:05,653 INFO 127.0.0.1 - - [04/Nov/2025 12:19:05] "GET / HTTP/1.1" 200 -
+2025-11-04 12:19:06,095 INFO User 3 incremented their score
+2025-11-04 12:19:06,095 INFO 127.0.0.1 - - [04/Nov/2025 12:19:06] "[32mPOST /increment_score HTTP/1.1[0m" 302 -
+2025-11-04 12:19:06,205 INFO 127.0.0.1 - - [04/Nov/2025 12:19:06] "GET / HTTP/1.1" 200 -
